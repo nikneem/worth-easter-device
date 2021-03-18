@@ -1,0 +1,42 @@
+.page-component {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  flex-flow: column;
+  align-items: center;
+  justify-content: center;
+  .page-panel {
+    .panel {
+      text-align: center;
+      p {
+        font-size: 2rem;
+        color: black;
+      }
+    }
+  }
+}
+
+.red {
+  color: #00f;
+}
+.orange {
+  color: #f0f;
+}
+.yellow {
+  color: #0ff;
+}
+.green {
+  color: #bb0;
+}
+.blue {
+  color: #0b0;
+}
+.purple {
+  color: #f00;
+}
+.pink {
+  color: #f80;
+}
+.black {
+  color: #000;
+}
