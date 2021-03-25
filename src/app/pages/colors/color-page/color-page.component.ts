@@ -26,15 +26,15 @@ export class ColorPageComponent implements OnInit {
         break;
       }
       case 'chicken': {
-        this.color = 'yellow';
+        this.color = 'dark-blue';
         break;
       }
       case 'rabbit': {
-        this.color = 'green';
+        this.color = 'pink';
         break;
       }
       case 'candle': {
-        this.color = 'blue';
+        this.color = 'turquoise';
         break;
       }
     }
